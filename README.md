@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 👨‍💻 Sou uma estudante de Engenharia de Softwarare<br>🌱 Atualmente, estou imerso no mundo do Python, explorando suas infinitas possibilidades<br>💬 Gosto de participar de grupos de estudos e desafios, onde posso colaborar com outros estudantes<br>🖥️ Além do meu interesse pela programação, sou apaixonado por games e pelo universo da realidade aumentada.<br>🎓 Formada em Técnico de Produção de Moda pelo Senac<br>👗 Student 3D Fashion Designer
 
 
