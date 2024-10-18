@@ -1,13 +1,17 @@
-# 👋 Olá, eu sou Gabrielli!
+# 👋 Olá, eu sou Gabry!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriellicristinabio) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nebulosaedit)
 
+---
+
 ## 🚀 Sobre mim
-**Desenvolvedora Certificada em Zoho**, especializada em soluções Low-Code que simplificam e automatizam processos empresariais, sempre focada em eficiência e inovação. Sou uma entusiasta de **Web 3.0** e **blockchain**, dedicando-me continuamente a estudar e participar de hackathons para explorar o potencial dessas tecnologias emergentes.
+**Desenvolvedora Certificada em Zoho**, especializada em soluções Low-Code que simplificam e automatizam processos empresariais, sempre focada em eficiência e inovação. Minha jornada no mundo da tecnologia é marcada pelo interesse em desenvolvimento, com uma paixão particular por **Web 3.0** e **blockchain**. Estou continuamente me dedicando a estudar e participar de hackathons para explorar o potencial dessas tecnologias emergentes.
 
-Fascinada pela interseção entre tecnologia e design, também me aprofundo em **branding** e **design digital**, criando identidades visuais que equilibram estética e funcionalidade. Com uma mentalidade orientada à solução de problemas, minha missão é transformar desafios em oportunidades criativas, unindo minha paixão por tecnologia, inovação e design para criar experiências digitais únicas e impactantes.
+Fascinada pela interseção entre tecnologia e design, me aprofundo em **branding** e **design digital**, criando identidades visuais que equilibram estética e funcionalidade. Com uma mentalidade orientada à solução de problemas, minha missão é transformar desafios em oportunidades criativas, unindo minha paixão por tecnologia, inovação e design para criar experiências digitais únicas e impactantes.
 
-🌱 Estou sempre em busca de novos conhecimentos e experiências, aberta a colaborar em projetos voluntários e participar de grupos de estudos para hackathons.
+Estou sempre em busca de novos conhecimentos e experiências, aberta a colaborar em projetos voluntários e participar de grupos de estudos para hackathons, contribuindo com ideias e abordagens que gerem valor e impacto real.
+
+---
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -19,15 +23,18 @@ Fascinada pela interseção entre tecnologia e design, também me aprofundo em *
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=gabriellicristina&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gabriellicristina&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellicristina&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=gabriellicristina&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
