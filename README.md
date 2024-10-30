@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mim
-**Desenvolvedora Certificada em Zoho**, especializada em soluções Low-Code que simplificam e automatizam processos empresariais, sempre focada em eficiência e inovação. Minha jornada no mundo da tecnologia é marcada pelo interesse em desenvolvimento, com uma paixão particular por **Web 3.0** e **blockchain**. Estou continuamente me dedicando a estudar e participar de hackathons para explorar o potencial dessas tecnologias emergentes.
+**Desenvolvedora Certificada em Zoho**, especializada em soluções Low-Code que simplificam e automatizam processos empresariais
 
 Fascinada pela interseção entre tecnologia e design, me aprofundo em **branding** e **design digital**, criando identidades visuais que equilibram estética e funcionalidade. Com uma mentalidade orientada à solução de problemas, minha missão é transformar desafios em oportunidades criativas, unindo minha paixão por tecnologia, inovação e design para criar experiências digitais únicas e impactantes.
 
